@@ -1,0 +1,39 @@
+#div1 h5{
+cursor: pointer;
+}
+#headerName {
+    margin-left: 32px;
+}
+#div1 h5:hover{
+    color: #efeb13;
+}
+#div2 p{
+    cursor: pointer;
+    }
+    #div2 p:hover{
+        color: #efeb13;
+    }
+.icons{
+    margin-top: 10px;
+    margin-left: 5px;
+    color: #4c4c49;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.icon{
+    display: flex;
+    width: 28px;
+    height: 27px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: #fff;
+}
+.social{
+    position: absolute;
+    left:1rem;
+    bottom: 2rem;
+}
